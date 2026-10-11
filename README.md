@@ -94,7 +94,7 @@ Brings together estimated Probability of Default (PD), risk segments, high-risk 
 - **[Project poster](POSTER.png)**
 - **[Project infographic](Infograph.jpeg)**
 - **[Introductory video](video%20intro.mp4)**
-- **Capstone report (public copy):** See the PDF file in this repository.
+- **[Capstone Report (PDF)](Banking%20Risk%20Capstone%20Report%20Public.pdf)**
 - **Presentation (PDF):** See the presentation PDF file in this repository.
 
 ## Key Business Recommendations
